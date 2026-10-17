@@ -1,0 +1,40 @@
+# ===== Keil MDK 编译产物 =====
+Output/
+Objects/
+Listings/
+*.o
+*.crf
+*.d
+*.dep
+*.lnp
+*.plg
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.htm
+*.build_log.htm
+*.iex
+*.sct
+*.__i
+*.i
+*.bak
+*.tmp
+
+# ===== Keil 用户个人设置（含窗口布局与本机用户名） =====
+*.uvguix.*
+*.uvoptx
+
+# ===== 调试器日志 =====
+JLinkLog.txt
+JLinkSettings.ini
+
+# ===== 编辑器 / 系统 =====
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
